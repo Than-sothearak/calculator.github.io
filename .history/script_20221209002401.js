@@ -44,7 +44,7 @@ class Caculator {
       case "*":
         compuation = prev * current;
         break;
-      case "÷":
+      case "/":
         compuation = prev / current;
         break;
       default:
